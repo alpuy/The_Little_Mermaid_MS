@@ -1,0 +1,9 @@
+build/
+gen/
+nes/
+src/tables.inc
+tas/*.bin
+test/out*
+test/*.png
+test/*.wav
+__pycache__/
